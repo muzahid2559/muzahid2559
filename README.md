@@ -17,6 +17,7 @@ I' m a Full Stack Web Developer who is passionate about making error-free websit
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **islamkmmuzahidul@gmail.com**
+-  ⚡ Fun fact **I think I am funny XD**
 
 
 <h3 align="left">Connect with me:</h3>
