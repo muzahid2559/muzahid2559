@@ -1,8 +1,8 @@
 ![Web Developer](https://scontent.fdac136-1.fna.fbcdn.net/v/t1.6435-9/141927891_2952704685054764_6453151907019306125_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFn2RBRTKqwM7jK5BnGaZx1l0sAdIaD6deXSwB0hoPp1xWU7reTaEzEzU5YsFjfNhGp4B6enJyR6AA3srJZ-SuS&_nc_ohc=i0WLmW2csEUAX-CbFhM&tn=4OJUVfSgdxgSkzoz&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_hdZwShMYUjuc7zdamyLH5BO6xDV4sjTgxpS_HF7BiCQ&oe=6275F973)
 
 
-### Hi there 👋, I'm MUZAHID
-#### Web Developer
+<h1 align="center">Hi 👋, I'm MUZAHID</h1>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 I' m a Full Stack Web Developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
