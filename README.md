@@ -8,10 +8,13 @@ I' m a Full Stack Web Developer who is passionate about making error-free websit
 
 Skills: HTML / CSS / REACT / JS
 
-- 🔭 I’m currently working on Fivrr, Freelancer 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Development 
+- 🌱 I’m currently learning **JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://muzahid626.github.io/Muzahid_Portfolio_2/](https://muzahid626.github.io/Muzahid_Portfolio_2/)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **islamkmmuzahidul@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
