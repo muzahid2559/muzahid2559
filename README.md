@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fdac136-1.fna.fbcdn.net/v/t1.6435-9/141927891_2952704685054764_6453151907019306125_n.jpg?stp=dst-jpg_p720x720&_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFn2RBRTKqwM7jK5BnGaZx1l0sAdIaD6deXSwB0hoPp1xWU7reTaEzEzU5YsFjfNhGp4B6enJyR6AA3srJZ-SuS&_nc_ohc=i0WLmW2csEUAX-CbFhM&tn=4OJUVfSgdxgSkzoz&_nc_ht=scontent.fdac136-1.fna&oh=00_AT_hdZwShMYUjuc7zdamyLH5BO6xDV4sjTgxpS_HF7BiCQ&oe=6275F973)
+![Web Developer]https://pbs.twimg.com/profile_images/1204816366093492224/oo7qWAMp_400x400.jpg
 
 
 <h1 align="center">Hi 👋, I'm MUZAHID</h1>
