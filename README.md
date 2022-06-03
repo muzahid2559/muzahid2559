@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_images/1204816366093492224/oo7qWAMp_400x600.jpg)
+![I am MUZAHID](https://pbs.twimg.com/profile_images/1204816366093492224/oo7qWAMp_400x400.jpg)
 
 
 <h1 align="center">Hi 👋, I'm MUZAHID</h1>
