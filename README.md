@@ -13,7 +13,7 @@ I' m a Full Stack Web Developer who is passionate about making error-free websit
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **islamkmmuzahidul@gmail.com**
+- 📫 How to reach me **muzahidul15-2559@diu.edu.bd**
 -  ⚡ Fun fact **I think I am funny XD**
 
 
