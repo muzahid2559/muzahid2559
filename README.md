@@ -5,7 +5,7 @@ I' m a Full Stack Web Developer who is passionate about making error-free websit
 
 ![Profile views](https://gpvc.arturio.dev/muzahid2559)
 
-<p align="left"> <a href="https://twitter.com/muzahid2559" target="blank"><img src="https://img.shields.io/twitter/follow/muzahid626?logo=twitter&style=for-the-badge" alt="muzahid2559" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muzahid2559" target="blank"><img src="https://img.shields.io/twitter/follow/muzahid2559?logo=twitter&style=for-the-badge" alt="muzahid2559" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
 
