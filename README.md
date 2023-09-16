@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MUZAHID</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-I' m a Full Stack Web Developer and had making error-free websites with fully client satisfaction.Over the past years, I created more than 10 websites for my clients. Most of the time I work with include ReactJS, JavaScript as well as Python..
+I' m a Front End Web Developer and had making error-free websites with fully client satisfaction.Over the past years, I created more than 10 websites for my clients. Most of the time I work with include ReactJS, JavaScript as well as Python..
 
 ![Profile views](https://gpvc.arturio.dev/muzahid2559)
 
